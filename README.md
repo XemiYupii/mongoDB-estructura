@@ -1,6 +1,7 @@
 OPTICA
 
-![Optica](https://user-images.githubusercontent.com/120043339/226474748-40a0ea85-03b9-45c1-a6bc-099b06b1ce9b.jpg)
+![Optica](https://user-images.githubusercontent.com/120043339/226475707-5b96607e-3666-4ecf-ad6e-318ab23c6e05.jpg)
+
 
 PIZZERIA
 
